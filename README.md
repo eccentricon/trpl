@@ -7,3 +7,8 @@ Code examples and experiments for learning Rust with [_The Rust Programming Lang
 ```shell
 $ git push -u origin main
 ```
+
+```shell
+$ # Compile "main" to bin/ subdirectory
+rustc --out-dir bin main.rs
+```
