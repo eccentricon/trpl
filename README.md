@@ -4,4 +4,6 @@ Code examples and experiments for learning Rust with [_The Rust Programming Lang
 - https://doc.rust-lang.org/book/
 - https://rust-book.cs.brown.edu/
 
-    git push -u origin main
+```shell
+$ git push -u origin main
+```
